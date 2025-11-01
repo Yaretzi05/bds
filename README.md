@@ -1,6 +1,6 @@
 # Catálogo de Razas de Gatos
 
-[cite_start]Este proyecto contiene un catálogo de razas de gatos, diseñado para la tercera iteración del proyecto de Bases de Datos. El modelo de datos está normalizado para facilitar su integración y consulta.
+Este proyecto contiene un catálogo de razas de gatos, diseñado para la tercera iteración del proyecto de Bases de Datos. El modelo de datos está normalizado para facilitar su integración y consulta.
 
 El modelo incluye información sobre las razas, su clasificación (por grupo y tipo de pelo), características físicas (peso, tamaño, esperanza de vida), estatus de conservación y requerimientos de cuidado. Adicionalmente, incluye tablas para un sistema de gestión de mascotas, permitiendo registrar propietarios y mascotas individuales.
 
@@ -18,8 +18,7 @@ El modelo se compone de las siguientes tablas:
 
 ## Instrucciones de Importación en PostgreSQL (Linux)
 
-[cite_start]Para importar el catálogo a una base de datos de PostgreSQL, sigue estos pasos[cite: 34, 35]. (Asegúrate de que los archivos CSV estén en el mismo directorio donde ejecutas psql).
-
+Para importar el catálogo a una base de datos de PostgreSQL, sigue estos pasos. 
 1.  Conéctate a tu base de datos:
     bash
     psql -U tu_usuario -d tu_base_de_datos
@@ -43,7 +42,7 @@ El modelo se compone de las siguientes tablas:
 
 
 
-    # **CATÁLOGO DE RAZAS DE REPTILES**
+   # **CATÁLOGO DE RAZAS DE REPTILES**
 
 ## **Descripción del Catálogo**
 
