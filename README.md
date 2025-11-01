@@ -40,7 +40,7 @@ Para importar el catálogo a una base de datos de PostgreSQL, sigue estos pasos.
     \copy Caracteristicas FROM 'caracteristicas.csv' WITH CSV HEADER;
     \copy Mascota FROM 'mascota.csv' WITH CSV HEADER;
 
-/* CATÁLOGO DE AVES */
+##* CATÁLOGO DE AVES **
 
 -- 1. Tablas de Catálogo
 
